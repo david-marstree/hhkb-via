@@ -80,7 +80,7 @@
       "KC_SLSH",
       "KC_NO",
       "KC_RSFT",
-      "MO(1)",
+      "MO(2)",
       "KC_NO",
       "KC_NO",
       "KC_LALT",
@@ -94,7 +94,7 @@
       "KC_NO",
       "KC_RGUI",
       "KC_NO",
-      "MO(2)",
+      "MO(1)",
       "KC_NO"
     ],
     [
@@ -112,7 +112,7 @@
       "KC_VOLD",
       "KC_VOLU",
       "KC_TRNS",
-      "KC_TRNS",
+      "RESET",
       "KC_TRNS",
       "KC_NO",
       "KC_TRNS",
@@ -312,21 +312,21 @@
       "KC_NO",
       "KC_TRNS",
       "KC_TRNS",
+      "KC_NO",
+      "KC_NO",
       "KC_TRNS",
-      "KC_NO",
-      "KC_TRNS",
-      "KC_TRNS",
-      "KC_NO",
-      "KC_NO",
-      "KC_NO",
       "KC_TRNS",
       "KC_NO",
       "KC_NO",
       "KC_NO",
       "KC_TRNS",
       "KC_NO",
+      "KC_NO",
+      "KC_NO",
       "KC_TRNS",
-      "KC_TRNS"
+      "KC_NO",
+      "KC_TRNS",
+      "KC_NO"
     ]
   ]
 }
